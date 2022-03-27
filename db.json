@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "PC Gamer",
+        "price": 6890.00
+      },
+      {
+        "id": 2,
+        "name": "Acer Notebook Gamer Nitro 5 ",
+        "price": 5200.89
+      },
+      {
+        "id": 3,
+        "name": "Celular Sansung",
+        "price": "7520.89"
+      },
+      {
+        "name": "Headset",
+        "price": "250.99",
+        "id": 4
+      }
+    ]
+  }
